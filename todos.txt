@@ -1,0 +1,2 @@
+1. scraper bauen der die links aus der json datei liest und die daten in eine weitere json datei schreibt
+2. search_function umbauen, dass 5-10 request gestaret werden, und für jede request eine andere Suchanfrage genutzt wird
